@@ -1,24 +1,18 @@
 {
-    "name": "litesaml/lightsaml",
+    "name": "kodoyosa/lightsaml",
     "license": "MIT",
     "type": "library",
     "description": "SAML 2.0 PHP library",
     "keywords": ["SAML 2.0", "PHP", "library", "lightSAML", "Single SignOn", "Single Logout"],
     "authors": [
         {
-            "name": "William",
-            "email": "work@suppo.fr"
-        },
-        {
-            "name": "Milos Tomic",
-            "email": "tmilos@gmail.com",
-            "homepage": "https://github.com/tmilos/",
-            "role": "Developer"
+            "name": "Guillaume M",
+            "email": "william.morille@gmail.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/litesaml/lightsaml/issues",
-        "source": "https://github.com/litesaml/lightsaml",
+        "issues": "https://github.com/kodoyosa/lightsaml/issues",
+        "source": "https://github.com/kodoyosa/lightsaml",
         "docs": "https://docs.litesaml.com"
     },
     "autoload": {
