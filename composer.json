@@ -27,7 +27,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "robrichards/xmlseclibs": "~2.0|~3.0|~4.0",
+        "robrichards/xmlseclibs": "~2.0|~3.0|~4.0|dev-master as 4.0",
         "symfony/http-foundation": "~5.0|~6.0|~7.0",
         "psr/event-dispatcher": "^1.0"
     },
